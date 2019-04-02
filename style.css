@@ -1,0 +1,87 @@
+/*.spanExample {
+  background-color: red;
+  color: white;
+}
+
+p {
+  background-color: green;
+  color: white;
+}
+
+.full {
+  display: block;
+}
+
+.part {
+  display: inline;
+}
+
+.secret {
+  display: none;
+}
+
+#box2 {
+  display: inline-block;
+  background-color: #39CCCC;
+  width: 100px;
+  height: 70px;
+  padding-left: 10px;
+  padding-top: 10px;
+  
+  border-top: 8px solid #001f3f;
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+ul li {
+  margin-top: 17px;
+}
+
+span.icon {
+  margin-right: 5px;
+}*/
+h1,h2,h3 {
+  font-weight: 400; 
+}
+h1{
+   font-size: 36px;
+   margin-bottom: 0px;
+}
+
+h2{
+   font-size: 32px;
+   border-bottom: 1px solid grey;
+   margin-bottom: 8px; 
+}
+
+h3{
+   font-size: 20px;
+   margin-bottom: 0px;
+}
+
+p{
+   margin-bottom: 12px;
+}
+#header{
+  margin-bottom: 32px;
+  text-align: center;
+}
+
+#footer{
+  margin-top: 64px;
+  text-align: center;
+}
+
+body {
+ font-family: Georgia;
+ font-size: 16px;
+ margin: 0 auto;   /* center content */
+ max-width: 800px; /* limit width */
+ line-height: 1.5;
+ padding-top: 32px;
+ padding-bottom: 32px;
+}
+
+/* BEGIN (write your solution here) */
+
+/* END */
